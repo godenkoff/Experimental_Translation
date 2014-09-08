@@ -1,27 +1,27 @@
   <?xml version="1.0" encoding="utf-8" ?> 
 - <resources>
 - <plurals name="lockpassword_password_requires_letters">
-  <item quantity="other">Пароль должен содержать не менее %d символов.</item> 
-  <item quantity="one">Пароль должен содержать хотя бы одну букву.</item> 
+  <item quantity="other">Пароль должен содержать не менее %d буквы.</item> 
+  <item quantity="one">Пароль должен содержать не менее 1 буквы.</item> 
   </plurals>
 - <plurals name="lockpassword_password_requires_lowercase">
-  <item quantity="other">Пароль должен содержать не менее %d строчных букв.</item> 
-  <item quantity="one">密码必须包含至少 1 个小写字母。</item> 
+  <item quantity="other">Пароль должен содержать не менее %d строчной буквы.</item> 
+  <item quantity="one">Пароль должен содержать не менее 1 строчной буквы.</item> 
   </plurals>
 - <plurals name="lockpassword_password_requires_uppercase">
-  <item quantity="other">密码必须包含至少 %d 个大写字母。</item> 
-  <item quantity="one">密码必须包含至少 1 个大写字母。</item> 
+  <item quantity="other">Пароль должен содержать не менее %d заглавной буквы.</item> 
+  <item quantity="one">Пароль должен содержать не менее 1 заглавной буквы.</item> 
   </plurals>
 - <plurals name="lockpassword_password_requires_numeric">
-  <item quantity="other">密码必须包含至少 %d 个数字。</item> 
-  <item quantity="one">密码必须包含至少 1 个数字。</item> 
+  <item quantity="other">Пароль должен содержать не менее %d цифры.</item> 
+  <item quantity="one">Пароль должен содержать не менее 1 цифры.</item> 
   </plurals>
 - <plurals name="lockpassword_password_requires_symbols">
-  <item quantity="other">密码必须包含至少 %d 个特殊符号。</item> 
-  <item quantity="one">密码必须包含至少 1 个特殊符号。</item> 
+  <item quantity="other">Пароль должен содержать не менее %d спец.символа.</item> 
+  <item quantity="one">Пароль должен содержать не менее 1 спец.символа.</item> 
   </plurals>
 - <plurals name="lockpassword_password_requires_nonletter">
-  <item quantity="other">密码必须包含至少 %d 个非字母字符。</item> 
-  <item quantity="one">密码必须包含至少 1 个非字母字符。</item> 
+  <item quantity="other">Пароль должен содержать не менее %d небуквенного символа.</item> 
+  <item quantity="one">Пароль должен содержать не менее 1 небуквенного символа.</item> 
   </plurals>
   </resources>
