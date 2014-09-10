@@ -1,4 +1,4 @@
-MiTV2_Russian_Translation
+Russian_Translation
 =========================
 
 Файлы перевода прошивки для MiTV2
