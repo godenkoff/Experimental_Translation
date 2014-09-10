@@ -116,10 +116,10 @@
   <string name="app_name_label">Приложения</string> 
   <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных.</string> 
   <string name="app_not_found_dlg_title" /> </string> 
-  <string name="app_notifications_switch_label">显示通知</string> 
-  <string name="app_process_limit_title">后台进程限制</string> 
-  <string name="application_info_label">应用信息</string> 
-  <string name="application_size_label">应用</string> 
+  <string name="app_notifications_switch_label">Показать уведомления</string> 
+  <string name="app_process_limit_title">Лимит фоновых процессов</string> 
+  <string name="application_info_label">О приложении</string> 
+  <string name="application_size_label">Приложение</string> 
   <string name="applications_settings">应用</string> 
   <string name="applications_settings_header">应用设置</string> 
   <string name="applications_settings_summary">管理应用、设置快速启动快捷方式</string> 
