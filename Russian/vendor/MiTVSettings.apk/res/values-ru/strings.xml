@@ -1,4 +1,4 @@
-  <?xml version="1.0" encoding="UTF-8" ?> 
+  <?xml version="1.0" encoding="UTF-8"?> 
 - <resources>
   <string name="about">О</string> 
   <string name="about_desc">Сведения об этом устройстве</string> 
