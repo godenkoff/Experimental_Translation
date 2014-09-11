@@ -176,11 +176,11 @@
   <string name="battery_action_app_settings">Настройки приложения</string> 
   <string name="battery_action_bluetooth">Настройки Bluetooth</string> 
   <string name="battery_action_display">Настройки экрана</string> 
-  <string name="battery_action_stop">强行停止</string> 
-  <string name="battery_action_wifi">Wi-Fi 设置</string> 
-  <string name="battery_desc_apps">应用所耗电量</string> 
-  <string name="battery_desc_bluetooth">蓝牙所耗的电量</string> 
-  <string name="battery_desc_display">显示屏和背光所耗的电量</string> 
+  <string name="battery_action_stop">Остановить</string> 
+  <string name="battery_action_wifi">Настройки Wi-Fi</string> 
+  <string name="battery_desc_apps">Использование батареи приложениями</string> 
+  <string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string> 
+  <string name="battery_desc_display">Использование батареи для подсветки экрана</string> 
   <string name="battery_desc_radio">手机射频所耗的电量</string> 
   <string name="battery_desc_standby">手机待机时所耗的电量</string> 
   <string name="battery_desc_voice">语音通话所耗的电量</string> 
