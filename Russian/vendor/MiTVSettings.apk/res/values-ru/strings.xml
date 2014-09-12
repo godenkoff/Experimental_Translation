@@ -447,9 +447,9 @@
   <string name="cdma_security_settings_summary">设置我的位置、屏幕解锁和凭据存储锁定</string> 
   <string name="cell_broadcast_settings">小区广播</string> 
   <string name="cell_broadcast_settings_summary">请选择要显示的紧急消息类型。</string> 
-  <string name="change">修改密码</string> 
-  <string name="changequestion">试试下题</string> 
-  <string name="checkbox_notification_same_as_incoming_call">将来电音量用作通知音量</string> 
+  <string name="change">Изменить пароль</string> 
+  <string name="changequestion">Измененить вопроса</string> 
+  <string name="checkbox_notification_same_as_incoming_call">Значек уведомления как у входящего вызова</string> 
   <string name="childlock">儿童锁</string> 
   <string name="childlock_close">关闭</string> 
   <string name="childlock_open">开启</string> 
