@@ -400,8 +400,8 @@
   <string name="bluetooth_scan">Поиск устройств</string> 
   <string name="bluetooth_scan_for_devices">Поиск устройств</string> 
   <string name="bluetooth_search_for_devices">Поиск устройств</string> 
-  <string name="bluetooth_searching_for_devices">正在搜索...</string> 
-  <string name="bluetooth_settings">蓝牙</string> 
+  <string name="bluetooth_searching_for_devices">Поиск...</string> 
+  <string name="bluetooth_settings">Bluetooth</string> 
   <string name="bluetooth_settings_summary">管理连接、设置设备名称和可检测性</string> 
   <string name="bluetooth_settings_title">蓝牙</string> 
   <string name="bluetooth_show_received_files">显示接收到的文件</string> 
