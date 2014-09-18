@@ -424,7 +424,7 @@
   <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string> 
   <string name="bluetooth_visibility_timeout_summary">Установка времени, в течении которого устройство может быть обнаружено</string> 
   <string name="boot_volume">Загрузочный том</string> 
-  <string name="box_password">Введите 4-8 символов с помощью ПДУ. Для ввода используйте клавиши со стрелками. Когда закончите, нажмите кнопку Enter чтобы подтвердить.输入4-8位遥控器方向键，输入完毕后按确认键</string> 
+  <string name="box_password">Введите 4-8 символов с помощью ПДУ. Для ввода используйте клавиши со стрелками. Когда закончите, нажмите кнопку Enter чтобы подтвердить.</string> 
   <string name="branch_version">Бета-версия</string> 
   <string name="brightness">Яркость</string> 
   <string name="brightness_summary">Настройка яркости экрана</string> 
@@ -505,8 +505,8 @@
   <string name="credentials_enabled">Хранилище регистрационных данных включено</string> 
   <string name="credentials_erased">Хранилище регистрационных данных удалено</string> 
   <string name="credentials_install">Установка с SD карты</string> 
-  <string name="credentials_install_gesture_explanation">您需要绘制解锁图案，以确认凭据安装操作。</string> 
-  <string name="credentials_install_gesture_prompt">绘制您的解锁图案</string> 
+  <string name="credentials_install_gesture_explanation">Установите графический ключ для подтверждения учетных данных.</string> 
+  <string name="credentials_install_gesture_prompt">Нарисуйте графический ключ</string> 
   <string name="credentials_install_summary">从 SD 卡安装证书</string> 
   <string name="credentials_not_erased">系统无法清除凭据存储。</string> 
   <string name="credentials_old_password">当前密码：</string> 
