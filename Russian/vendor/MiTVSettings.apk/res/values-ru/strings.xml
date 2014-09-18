@@ -501,10 +501,10 @@
   <string name="copy_right">Авторское право, правила защиты, претензии.</string> 
   <string name="copyright_title">Авторское право</string> 
   <string name="create">Создать</string> 
-  <string name="credentials_configure_lock_screen_hint">您需要先设置锁定屏幕 PIN 或密码才能使用凭据存储。</string> 
+  <string name="credentials_configure_lock_screen_hint">Прежде чем использовать хранилище аккаунта, необходимо задать код или пароль для блокировки экрана.</string> 
   <string name="credentials_enabled">Хранилище регистрационных данных включено</string> 
   <string name="credentials_erased">Хранилище регистрационных данных удалено</string> 
-  <string name="credentials_install">从 SD 卡安装</string> 
+  <string name="credentials_install">Установка с SD карты</string> 
   <string name="credentials_install_gesture_explanation">您需要绘制解锁图案，以确认凭据安装操作。</string> 
   <string name="credentials_install_gesture_prompt">绘制您的解锁图案</string> 
   <string name="credentials_install_summary">从 SD 卡安装证书</string> 
