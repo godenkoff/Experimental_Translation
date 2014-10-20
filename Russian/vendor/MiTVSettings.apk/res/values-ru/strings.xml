@@ -1121,13 +1121,13 @@
   <string name="new_backup_pw_prompt">在此键入新的完整备份密码</string> 
   <string name="newpassword_confirm_hint">密码确认</string> 
   <string name="newpassword_hint">输入新密码</string> 
-  <string name="next_button_label">下一步</string> 
-  <string name="next_label">下一步</string> 
+  <string name="next_button_label">Далее</string> 
+  <string name="next_label">Далее</string> 
   <string name="nfc_quick_toggle_summary">允许手机在接触其他设备时交换数据</string> 
   <string name="nfc_quick_toggle_title">NFC</string> 
   <string name="no">Нет</string> 
-  <string name="no_application">Нет</string> 
-  <string name="no_applications">Нет приложений.</string> 
+  <string name="no_application">Ничего</string> 
+  <string name="no_applications">Нет приложений</string> 
   <string name="no_device_admins">没有可供显示的设备管理器</string> 
   <string name="no_enough_length">密码长度不能少于4位</string> 
   <string name="no_login">未登录</string> 
