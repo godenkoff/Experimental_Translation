@@ -64,24 +64,24 @@
   <item>GTC</item> 
   </string-array>
 - <string-array name="wifi_network_setup">
-  <item>关闭</item> 
-  <item>按钮</item> 
+  <item>Отключение</item> 
+  <item>Push-кнопка</item> 
   <item>从接入点获取的 PIN</item> 
   <item>从此设备生成的 PIN</item> 
   </string-array>
 - <string-array name="wifi_ip_settings">
-  <item>DHCP</item> 
-  <item>静态</item> 
+  <item>Автоматически (DHCP)</item> 
+  <item>Статический</item> 
   </string-array>
 - <string-array name="wifi_proxy_settings">
-  <item>无</item> 
-  <item>手动</item> 
+  <item>Нет</item> 
+  <item>Вручную</item> 
   </string-array>
 - <string-array name="wifi_security">
   <item>802.1X</item> 
   <item>PSK</item> 
   <item>WEP</item> 
-  <item>无</item> 
+  <item>Нет</item> 
   </string-array>
 - <string-array name="device_names">
   <item>客厅电视</item> 
