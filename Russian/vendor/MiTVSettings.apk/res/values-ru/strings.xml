@@ -1273,7 +1273,7 @@
   <string name="radio_controls_summary">Управление Wi-Fi, Bluetooth, режимом полета, мобильными сетями и VPN</string> 
   <string name="radio_controls_title">Дополнительно...</string> 
   <string name="radio_info_band_mode_label">Выбрать радиостанцию</string> 
-  <string name="radio_info_call_redirect_label">呼叫重定向：</string> 
+  <string name="radio_info_call_redirect_label">Перенаправление вызовов:</string> 
   <string name="radio_info_call_status_label">呼叫状态：</string> 
   <string name="radio_info_current_network_label">当前网络：</string> 
   <string name="radio_info_data_attempts_label">数据尝试次数：</string> 
