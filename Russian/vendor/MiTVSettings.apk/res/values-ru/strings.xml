@@ -750,7 +750,7 @@
   <string name="eth_quick_toggle_title">Ethernet</string> 
   <string name="eth_setting">Ethernet</string> 
   <string name="eth_setting_title_string">Проводная сеть</string> 
-  <string name="eth_settings_error">Установка не удалась: пожалуйста, введите допустимый диапозон 0 ~ 255</string> 
+  <string name="eth_settings_error">Установка не удалась: пожалуйста, введите допустимый диапазон 0 ~ 255</string> 
   <string name="eth_toggle_summary_off">Отключить Ethernet</string> 
   <string name="eth_toggle_summary_on">Включить Ethernet</string> 
   <string name="ethernet">Проводная сеть</string> 
@@ -1080,9 +1080,9 @@
   <string name="network_diagnoser_dnssetting">Настройки DNS-сервера</string> 
   <string name="network_diagnoser_dnssuggest">Рекомендованные DNS-сервера, для бесперебойной работы сети/建议使用以下DNS以保证网络通畅：</string> 
   <string name="network_diagnoser_failhint">Проверьте настройки сети или обратитесь к провайдеру</string> 
-  <string name="network_diagnoser_failhttprange">Не поддерживаемый диапозон адресов, проверьте настройки маршрутизатора/网络不支持http range，请检查路由器设置</string> 
+  <string name="network_diagnoser_failhttprange">Не поддерживаемый диапазон адресов, проверьте настройки маршрутизатора/网络不支持http range，请检查路由器设置</string> 
   <string name="network_diagnoser_gatewayerror">Не удается подключиться к шлюзу</string> 
-  <string name="network_diagnoser_httprange">Сеть поддерживает http диапазон 网络是否支持 http range</string> 
+  <string name="network_diagnoser_httprange">Сеть поддерживает HTTP диапазон 网络是否支持 http range</string> 
   <string name="network_diagnoser_icntvdistserver">iCNTV内容分发服务器</string> 
   <string name="network_diagnoser_icntvserver">iCNTV认证服务器</string> 
   <string name="network_diagnoser_internetdetect">外部网络设置</string> 
