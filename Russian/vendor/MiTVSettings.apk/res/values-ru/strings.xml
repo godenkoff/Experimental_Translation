@@ -1419,7 +1419,7 @@
   <string name="security_passwords_title">密码</string> 
   <string name="security_setting">安全</string> 
   <string name="security_settings">帐户与安全</string> 
-  <string name="security_settings_desc">电视系统的帐户与安全设置</string> 
+  <string name="security_settings_desc">Настройка аккаунта и параметров защиты ТВ</string> 
   <string name="security_settings_desc_multi">此应用可访问您手机上的以下内容。为了提高性能和减少内存使用量，%1$s可获得其中的部分权限，因为它与%2$s运行在同一进程中。</string> 
   <string name="security_settings_summary">设置我的位置、屏幕解锁、SIM 卡锁定和凭据存储锁定</string> 
   <string name="security_settings_title">安全</string> 
