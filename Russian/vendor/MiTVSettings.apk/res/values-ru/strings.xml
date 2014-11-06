@@ -579,7 +579,7 @@
   <string name="data_usage_label_foreground">Активный режим</string> 
   <string name="data_usage_limit_dialog_mobile">"При достижении укананного лимита, передача данных будет отключена. Кол-во используемого трафика может по-разному учитываться вашим устройством и оператором, установите необходимый лимит во избежание перерасхода."</string> 
   <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string> 
-  <string name="data_usage_limit_editor_title">Установка лимита трафика</string> 
+  <string name="data_usage_limit_editor_title">Установка ограничения трафика</string> 
   <string name="data_usage_list_mobile">Мобильные сети</string> 
   <string name="data_usage_list_none">Нет</string> 
   <string name="data_usage_menu_auto_sync">Автосинхронизация</string> 
@@ -844,7 +844,7 @@
   <string name="input_wifi_security">Выберите протокол безопасности</string> 
   <string name="input_wifi_ssid">Введите имя сети (SSID)</string> 
   <string name="input_wifi_user">Введите имя пользователя</string> 
-  <string name="install_all_warning">Ваши личные данные и данные устройства станут более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный устройству, и потерю данных, связанные с использованием этих приложений.</string> 
+  <string name="install_all_warning">Ваши личные данные и устройство станут более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб нанесенный устройству и потерю данных, связанный с использованием этих приложений.</string> 
   <string name="install_applications">Неизвестные источники</string> 
   <string name="install_unknown_app">Установка приложений из неизвестных источников</string> 
   <string name="install_unknown_app_desc">Следует ли разрешить установку приложений из неизвестных источников, таких, как программа установки подключения на ПК</string> 
