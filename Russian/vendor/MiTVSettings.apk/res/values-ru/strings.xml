@@ -548,7 +548,7 @@
   <string name="customize_display">Режим пользователя</string> 
   <string name="customize_display_desc">Настройте свой любимый режим изображения</string> 
   <string name="customize_sound">Настройки звука</string> 
-  <string name="customize_sound_desc">Звуковые настройки ТВ</string> 
+  <string name="customize_sound_desc">Настройки звука ТВ</string> 
   <string name="data_size_label">Данные</string> 
   <string name="data_usage_app_restrict_background">Ограничить фоновые данные</string> 
   <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей, использовать сеть Wi-Fi.</string> 
