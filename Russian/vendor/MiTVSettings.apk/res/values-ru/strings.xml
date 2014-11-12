@@ -49,7 +49,7 @@
   <string name="active_input_method_subtypes">Активные способы ввода</string> 
   <string name="activity_picker_label">Выбор действия</string> 
   <string name="adb_enable">ADB Отладка</string> 
-  <string name="adb_enable_desc">Разрешить ADB отладку</string> 
+  <string name="adb_enable_desc">Разрешать ли ADB отладку</string> 
   <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string> 
   <string name="adb_warning_title">Разрешить отладку по USB?</string> 
   <string name="add_account_label">Добавить аккаунт</string> 
@@ -476,7 +476,7 @@
   <string name="clear_failed_dlg_title">Очистить данные</string> 
   <string name="clear_user_data_text">Очистить данные</string> 
   <string name="cloudalbum_screen_saver">Использовать облачный фотоальбом для экранной заставки</string> 
-  <string name="cloudalbum_screen_saver_description">При включении, вы увидите в фотографиях альбом Screensaver</string> 
+  <string name="cloudalbum_screen_saver_description">При включении, вы увидите в фотографии из альбома Screensaver</string> 
   <string name="computing_size">Вычисление размера...</string> 
   <string name="configure_input_method">Настройка методов ввода</string> 
   <string name="confirm">ОК</string> 
@@ -847,7 +847,7 @@
   <string name="install_all_warning">Ваши личные данные и устройство станут более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб нанесенный устройству и потерю данных, связанный с использованием этих приложений.</string> 
   <string name="install_applications">Неизвестные источники</string> 
   <string name="install_unknown_app">Установка приложений из неизвестных источников</string> 
-  <string name="install_unknown_app_desc">Следует ли разрешить установку приложений из неизвестных источников, таких, как программа установки подключения на ПК</string> 
+  <string name="install_unknown_app_desc">Разрешать ли установку приложений из неизвестных источников, таких, как программа установки подключения на ПК</string> 
   <string name="install_unknown_applications">Устанавливать приложения из неизвестных источников</string> 
   <string name="insufficient_storage">Недостаточно памяти</string> 
   <string name="intent_sender_account_label">Аккаунт:</string> 
@@ -1177,7 +1177,7 @@
   <string name="pico_voice_summary_female">Женский голос</string> 
   <string name="pico_voice_summary_male">Мужской голос</string> 
   <string name="ping_test_label">Проверить пинг</string> 
-  <string name="please_login_xiaomi_account_for_cloud_album">Облачные альбомы можно использовать после входа в аккаунт Xiaomi</string> 
+  <string name="please_login_xiaomi_account_for_cloud_album">Облачные альбомы можно использовать после авторизации</string> 
   <string name="please_select_phase2">Аутентификация:2-й этап </string> 
   <string name="plug_disconnected">Подключите сетевой кабель</string> 
   <string name="pointer_location">Позиция указателя</string> 
@@ -1365,12 +1365,12 @@
   <string name="save_energy">Энергосбережение</string> 
   <string name="screen_compatibility_label">屏幕兼容性</string> 
   <string name="screen_compatibility_text">此应用可能不是针对您的屏幕设计的。您可以在此处调整其显示尺寸/比例，让它适合您的屏幕。</string> 
-  <string name="screen_saver">屏保</string> 
+  <string name="screen_saver">Заставка</string> 
   <string name="screen_saver_account_login">登录</string> 
   <string name="screen_saver_account_register">注册</string> 
-  <string name="screen_saver_priview">屏保预览</string> 
+  <string name="screen_saver_priview">Предпросмотр заставки</string> 
   <string name="screen_saver_set">屏保相关设置</string> 
-  <string name="screen_saver_time">屏保时间</string> 
+  <string name="screen_saver_time">Время заставки экрана</string> 
   <string name="screen_timeout">休眠</string> 
   <string name="screen_timeout_summary">无操作 %1$s后</string> 
   <string name="screensaver_activate_on_dock_title">插入基座时也启动</string> 
@@ -1394,7 +1394,7 @@
   <string name="sd_memory">SD 卡</string> 
   <string name="sd_mount">安装 SD 卡</string> 
   <string name="sd_mount_summary" /> 
-  <string name="sd_space">SD卡信息</string> 
+  <string name="sd_space">Сведения о SD-карте<</string> 
   <string name="sd_tv_space">SD卡内容和空间</string> 
   <string name="sdcard_changes_instructions">重新连接 USB 线后更改就会生效。</string> 
   <string name="sdcard_format">格式化 SD 卡</string> 
@@ -1645,7 +1645,7 @@
   <string name="turn_on_radio">打开无线通信</string> 
   <string name="tv_info">关于本机</string> 
   <string name="tv_preview">首页画中画</string> 
-  <string name="tv_preview_description">修改电视桌面，TV栏第一张可显示预览画面的输入源</string> 
+  <string name="tv_preview_description">Первым экраном будет отображено окно предпросмотра от источника сигнала (DVD/Рессивер...)</string> 
   <string name="uninstall_text">卸载</string> 
   <string name="unknown">未知</string> 
   <string name="unlock_backup_info_summary">当人脸解锁识别不出您时，您希望如何解锁？</string> 
@@ -1807,7 +1807,7 @@
   <string name="vpn_username">用户名</string> 
   <string name="wait_for_debugger">等待调试器</string> 
   <string name="wait_for_debugger_summary">调试应用会在执行前等待附加调试器</string> 
-  <string name="waiting">请稍等...</string> 
+  <string name="waiting">Подождите...</string> 
   <string name="wallpaper_settings_fragment_title">选择壁纸来源</string> 
   <string name="wallpaper_settings_title">壁纸</string> 
   <string name="welcome_string">欢迎使用小米电视</string> 
