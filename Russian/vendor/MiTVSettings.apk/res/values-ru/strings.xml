@@ -913,7 +913,7 @@
   <string name="location_neighborhood_level">Позволяет приложениям использовать службы Google Location Services, для быстрого поиска вашего местоположения. Система будет собирать анонимные данные о местоположении и отправлять их в Google.</string> 
   <string name="location_neighborhood_level_wifi">Использовать Wi-Fi-сети для определения местоположения</string> 
   <string name="location_network_based">Использовать Wi-Fi-сети и координаты расположения мобильных сетей для определения местоположения</string> 
-  <string name="location_province">Ренионы</string> 
+  <string name="location_province">Провинция</string> 
   <string name="location_settings_title">Доступ к информации о местонахождении</string> 
   <string name="location_sources_heading">Определение местоположения</string> 
   <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения Вашего местоположения</string> 
@@ -1144,8 +1144,8 @@
   <string name="off">ОТКЛ.</string> 
   <string name="oldpassword_hint">Текущий пароль</string> 
   <string name="on">ВКЛ.</string> 
-  <string name="one_touch_play">一触即播</string> 
-  <string name="one_touch_play_desc">成功连接DVD、电脑、游戏机等输入源后，第一时间播放并使用</string> 
+  <string name="one_touch_play">Запуск воспроизведения одним нажатием</string> 
+  <string name="one_touch_play_desc">Воспроизводить и использовать при подключении DVD, компьютера, игровой приставки и других устройств</string> 
   <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string> 
   <string name="operator_add">+</string> 
   <string name="operator_div">/</string> 
@@ -1333,7 +1333,7 @@
   <string name="report">报告</string> 
   <string name="reset_app_preferences">重置应用偏好设置</string> 
   <string name="reset_app_preferences_button">重置应用</string> 
-  <string name="reset_app_preferences_desc">"此操作将会重置以下全部偏好设置： "<li>&#20572;&#29992;&#30340;&#24212;&#29992;</li>" "<li>&#20572;&#29992;&#30340;&#24212;&#29992;&#36890;&#30693;</li>" "<li>&#25191;&#34892;&#25805;&#20316;&#30340;&#40664;&#35748;&#24212;&#29992;</li>" "<li>&#24212;&#29992;&#30340;&#21518;&#21488;&#25968;&#25454;&#38480;&#21046;</li>" &#24744;&#23558;&#19981;&#20250;&#20002;&#22833;&#20219;&#20309;&#24212;&#29992;&#25968;&#25454;&#12290;"</string> 
+  <string name="reset_app_preferences_desc">"此操作将会重置以下全部偏好设置： "<li>停用的应用</li>" "<li>停用的应用通知</li>" "<li>执行操作的默认应用</li>" "<li>应用的后台数据限制</li>" 您将不会丢失任何应用数据。"</string> 
   <string name="reset_app_preferences_title">要重置应用偏好设置吗？</string> 
   <string name="resetparentpassword">家长密码修改</string> 
   <string name="resetparentpassword_description">修改已设置过的密码</string> 
@@ -1493,7 +1493,7 @@
   <string name="small_font">小</string> 
   <string name="sms_over_ims_off">停用通过 IMS 发送短信的功能</string> 
   <string name="sms_over_ims_on">启用通过 IMS 发送短信的功能</string> 
-  <string name="software_version">软件版本</string> 
+  <string name="software_version">Версия ПО</string> 
   <string name="sort_order_alpha">按名称排序</string> 
   <string name="sort_order_size">按大小排序</string> 
   <string name="sound">Звук</string> 
@@ -1567,7 +1567,7 @@
   <string name="sync_menu_sync_cancel">取消同步</string> 
   <string name="sync_menu_sync_now">立即同步</string> 
   <string name="sync_one_time_sync">"触摸可立即同步（ %1$s）"</string> 
-  <string name="sync_plug"><font fgcolor="#ffffffff">&#27426;&#36814;&#20351;&#29992; Google Sync&#65281;</font>" &#36825;&#27454;&#25968;&#25454;&#21516;&#27493;&#24037;&#20855;&#21487;&#35753;&#24744;&#38543;&#26102;&#38543;&#22320;&#26597;&#30475;&#24744;&#30340;&#32852;&#31995;&#20154;&#12289;&#32422;&#20250;&#20197;&#21450;&#26356;&#22810;&#20449;&#24687;&#12290;"</string> 
+  <string name="sync_plug"><font fgcolor="#ffffffff">欢迎使用 Google Sync！</font>" 这款数据同步工具可让您随时随地查看您的联系人、约会以及更多信息。"</string> 
   <string name="system">Система</string> 
   <string name="system_language">Язык системы</string> 
   <string name="system_package">无法在外部介质上安装系统更新。</string> 
@@ -1592,12 +1592,12 @@
   <string name="time_settings">时间设置</string> 
   <string name="title_font_size">字体大小</string> 
   <string name="too_much_length">密码长度不能超过8位</string> 
-  <string name="total_size">共%1$s</string> 
-  <string name="total_size_label">总计</string> 
+  <string name="total_size">Всего:%1$s</string> 
+  <string name="total_size_label">Всего</string> 
   <string name="track_frame_time">GPU 呈现模式分析</string> 
   <string name="track_frame_time_summary">计算 adb shell dumpsys gfxinfo 中的呈现时间</string> 
   <string name="transition_animation_scale_title">过渡动画缩放</string> 
-  <string name="trunk_version">稳定版</string> 
+  <string name="trunk_version">Стабильная версия</string> 
   <string name="trusted_credentials">受信任的凭据</string> 
   <string name="trusted_credentials_disable_confirmation">要停用该系统 CA 证书吗？</string> 
   <string name="trusted_credentials_disable_label">停用</string> 
