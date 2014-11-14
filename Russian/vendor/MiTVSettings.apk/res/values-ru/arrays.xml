@@ -12,7 +12,7 @@
   <item>Нет подключения</item> 
   <item>Сбой</item> 
   <item>Заблокировано</item> 
-  <item>Избежание слабого сигнала</item> 
+  <item>Избегать слабого сигнала</item> 
   </string-array>
 - <string-array name="wifi_status_with_ssid">
   <item /> 
@@ -196,11 +196,11 @@
   </string-array>
 - <string-array name="xiaomi_sound_output">
   <item>Динамики телевизора</item> 
-  <item>Xiaomi Home Theater</item> 
+  <item>Mi Home Audio</item> 
   </string-array>
 - <string-array name="xiaomi_sound_output_desc">
   <item>Выводить звук через встроенные колоноки</item> 
-  <item>Подключение к ТВ Xiaomi Home Theater</item> 
+  <item>Подключение к ТВ Mi Home Audio</item> 
   </string-array>
 - <string-array name="soundBar_customize">
   <item>Высокие частоты</item> 
