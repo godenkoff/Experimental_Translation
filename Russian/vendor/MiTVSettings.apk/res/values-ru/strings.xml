@@ -482,7 +482,7 @@
   <string name="confirm">ОК</string> 
   <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string> 
   <string name="confirm_sub_to_skip_guide">Сеть ТВ не настроена, другие функции будут не доступны.</string> 
-  <string name="confirm_to_skip_guide">Вы уверены, что хотите выйти из настроек сети?</string> 
+  <string name="confirm_to_skip_guide">Выйти из настроек сети?</string> 
   <string name="confirmpassword">Подтверждение пароля:</string> 
   <string name="connect_settings">Настройки соединения</string> 
   <string name="connected">Подключено</string> 
