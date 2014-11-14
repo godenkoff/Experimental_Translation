@@ -85,10 +85,10 @@
   </string-array>
 - <string-array name="device_names">
   <item>ТВ в гостинной</item> 
-  <item>ТВ в первой спальне</item> 
-  <item>ТВ во второй спальне</item> 
-  <item>Изучение ТВ</item> 
-  <item>Авто-определение</item> 
+  <item>ТВ в спальне</item> 
+  <item>ТВ в зале</item> 
+  <item>ТВ в детской</item> 
+  <item>Автоименование</item> 
   </string-array>
 - <string-array name="sleep_policy">
   <item>30 минут</item> 
