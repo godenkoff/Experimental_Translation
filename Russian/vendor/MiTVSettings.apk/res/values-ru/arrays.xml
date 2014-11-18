@@ -1,6 +1,6 @@
   <?xml version="1.0" encoding="utf-8" ?> 
-- <resources>
-- <string-array name="wifi_status">
+  <resources>
+  <string-array name="wifi_status">
   <item /> 
   <item>Поиск...</item> 
   <item>Подключение...</item> 
@@ -14,7 +14,7 @@
   <item>Заблокировано</item> 
   <item>Избегать слабого сигнала</item> 
   </string-array>
-- <string-array name="wifi_status_with_ssid">
+  <string-array name="wifi_status_with_ssid">
   <item /> 
   <item>Поиск...</item> 
   <item>Подключение к %1$s...</item> 
@@ -28,87 +28,87 @@
   <item>Заблокировано</item>
   <item>Избежание слабого сигнала</item> 
   </string-array>
-- <string-array name="wifi_eap_method">
+  <string-array name="wifi_eap_method">
   <item>PEAP</item> 
   <item>TLS</item> 
   <item>TTLS</item> 
   </string-array>
-- <string-array name="wifi_p2p_wps_setup">
+  <string-array name="wifi_p2p_wps_setup">
   <item>Push-кнопка</item> 
   <item>PIN-код с обнаруженного устройства</item> 
   <item>PIN-код этого устройства</item> 
   </string-array>
-- <string-array name="wifi_p2p_status">
+  <string-array name="wifi_p2p_status">
   <item>Подключено</item> 
   <item>Приглашено</item> 
   <item>Сбой</item> 
   <item>Доступно</item> 
   <item>Вне диапазона</item> 
   </string-array>
-- <string-array name="wifi_signal">
+  <string-array name="wifi_signal">
   <item>Слабый</item> 
   <item>Средний</item> 
   <item>Хороший</item> 
   <item>Отличный</item> 
   </string-array>
-- <string-array name="wifi_eap_entries">
+  <string-array name="wifi_eap_entries">
   <item>PEAP</item> 
   <item>TLS</item> 
   <item>TTLS</item> 
   </string-array>
-- <string-array name="wifi_phase2_entries">
+  <string-array name="wifi_phase2_entries">
   <item>Нет</item> 
   <item>PAP</item> 
   <item>MSCHAP</item> 
   <item>MSCHAPV2</item> 
   <item>GTC</item> 
   </string-array>
-- <string-array name="wifi_network_setup">
+  <string-array name="wifi_network_setup">
   <item>Отключение</item> 
   <item>Push-кнопка</item> 
   <item>PIN-код точки доступа</item> 
   <item>PIN-код этого устройства</item> 
   </string-array>
-- <string-array name="wifi_ip_settings">
+  <string-array name="wifi_ip_settings">
   <item>Автоматически (DHCP)</item> 
   <item>Статический</item> 
   </string-array>
-- <string-array name="wifi_proxy_settings">
+  <string-array name="wifi_proxy_settings">
   <item>Нет</item> 
   <item>Вручную</item> 
   </string-array>
-- <string-array name="wifi_security">
+  <string-array name="wifi_security">
   <item>802.1X</item> 
   <item>PSK</item> 
   <item>WEP</item> 
   <item>Нет</item> 
   </string-array>
-- <string-array name="device_names">
+  <string-array name="device_names">
   <item>ТВ в гостинной</item> 
   <item>ТВ в спальне</item> 
   <item>ТВ в зале</item> 
   <item>ТВ в детской</item> 
   <item>Автоименование</item> 
   </string-array>
-- <string-array name="sleep_policy">
+  <string-array name="sleep_policy">
   <item>30 минут</item> 
   <item>60 минут</item> 
   <item>120 минут</item> 
   <item>Никогда</item> 
   </string-array>
-- <integer-array name="sleep_policy_values">
+  <integer-array name="sleep_policy_values">
   <item>30</item> 
   <item>60</item> 
   <item>120</item> 
   <item>-1</item> 
   </integer-array>
-- <string-array name="screensaver_policy">
+  <string-array name="screensaver_policy">
   <item>Отключить</item> 
   <item>4 минуты</item> 
   <item>8 минут</item> 
   <item>12 минут</item> 
   </string-array>
-- <string-array name="tv_preview_policy">
+  <string-array name="tv_preview_policy">
   <item>TV</item> 
   <item>AV</item> 
   <item>HDMI1</item> 
@@ -117,7 +117,7 @@
   <item>VGA</item> 
   <item>DTMB</item> 
   </string-array>
-- <integer-array name="tv_preview_policy_values">
+  <integer-array name="tv_preview_policy_values">
   <item>0</item> 
   <item>1</item> 
   <item>2</item> 
@@ -126,13 +126,13 @@
   <item>4</item> 
   <item>7</item> 
   </integer-array>
-- <integer-array name="screensaver_policy_values">
+  <integer-array name="screensaver_policy_values">
   <item>0</item> 
   <item>4</item> 
   <item>8</item> 
   <item>12</item> 
   </integer-array>
-- <string-array name="display_sound_profile">
+  <string-array name="display_sound_profile">
   <item>Стандарт</item> 
   <item>Вручную</item> 
   <item>Дисплей</item> 
@@ -142,17 +142,17 @@
   <item>Спорт</item> 
   <item>Монитор</item> 
   </string-array>
-- <string-array name="display_sound_profile_desc">
-  <item>所有场景下的通用画面和音质模式</item> 
-  <item>用户自定义自己喜欢的图像模式</item> 
-  <item>显示模式</item> 
-  <item>最大还原电影院胶片投影的颗粒视觉观感</item> 
-  <item>游戏模式</item> 
-  <item>用于展示、演示等需要艳丽图像显示的场景下使用</item> 
-  <item>减少高速运动时画面所产生的拖影</item> 
-  <item>连接电脑、小米盒子时可选用此模式</item> 
+  <string-array name="display_sound_profile_desc">
+  <item>Общий режим изображения и звука во всех сценах</item> 
+  <item>Персональные настройки изображения</item> 
+  <item>Режим дисплея</item> 
+  <item>Максимальное восстановление эффекта пленочного кинопроектора, для улучшения зрительного восприятия</item> 
+  <item>Игровой режим</item> 
+  <item>Используется для показа слайдов, презентаций и т.д., когда необходимо яркое изображение</item> 
+  <item>В этом режиме снижается скорость в динамичных сценах, для уменьшения смазывания изображения</item> 
+  <item>Этот режим может быть выбран при подключении к компьтеру или ТВ-приставке</item> 
   </string-array>
-- <string-array name="display_parameters">
+  <string-array name="display_parameters">
   <item>Яркость </item> 
   <item>Контраст</item> 
   <item>Насыщенность</item> 
@@ -161,89 +161,89 @@
   <item>Цвет.температура</item> 
   <item>Подсветка</item> 
   </string-array>
-- <string-array name="display_color_temperatures">
+  <string-array name="display_color_temperatures">
   <item>Холодный</item> 
   <item>Натуральный</item> 
   <item>Теплый</item> 
   </string-array>
-- <string-array name="sound_profile">
+  <string-array name="sound_profile">
   <item>Стандарт</item> 
   <item>Фильм</item> 
   <item>Голос</item> 
   </string-array>
-- <string-array name="sound_profile_desc">
-  <item>Универсальный звук.режим/所有场景下的通用声音模式</item> 
-  <item>Восстанавливать звук.эффекты кинотеатра/还原电影院的声场效果</item> 
-  <item>Улучшить звучание голоса可以增强人声的声音模式</item> 
+  <string-array name="sound_profile_desc">
+  <item>Универсальный звук.режим</item> 
+  <item>Восстанавление звук.эффектов кинотеатра</item> 
+  <item>Улучшение звучания голосов</item> 
   </string-array>
-- <string-array name="sound_input">
+  <string-array name="sound_input">
   <item>Bluetooth</item> 
   <item>S/PDIF</item> 
   <item>AUX</item> 
   </string-array>
-- <string-array name="sound_interface">
+  <string-array name="sound_interface">
   <item>HDMI ARC</item> 
   <item>AMP</item> 
   <item>S/PDIF</item> 
   </string-array>
-- <string-array name="sound_output">
+  <string-array name="sound_output">
   <item>Динамики телевизора</item> 
   <item>Внешняя аккустика</item> 
   </string-array>
-- <string-array name="sound_output_desc">
+  <string-array name="sound_output_desc">
   <item>Выводить звук через встроенные колоноки</item> 
   <item>Выводить звук через внешние источники</item> 
   </string-array>
-- <string-array name="xiaomi_sound_output">
+  <string-array name="xiaomi_sound_output">
   <item>Динамики телевизора</item> 
   <item>Mi Home Audio</item> 
   </string-array>
-- <string-array name="xiaomi_sound_output_desc">
+  <string-array name="xiaomi_sound_output_desc">
   <item>Выводить звук через встроенные колоноки</item> 
   <item>Подключение к ТВ Mi Home Audio</item> 
   </string-array>
-- <string-array name="soundBar_customize">
+  <string-array name="soundBar_customize">
   <item>Высокие частоты</item> 
   <item>Средние частоты</item> 
   <item>Низкие частоты</item> 
   <item>Ультра-низкие частоты</item> 
   </string-array>
-- <string-array name="SPDIF">
+  <string-array name="SPDIF">
   <item>PCM</item> 
   <item>Raw Data</item> 
   <item>Выкл.</item> 
   </string-array>
-- <string-array name="acoustics">
+  <string-array name="acoustics">
   <item>Баланс</item> 
   <item>Четкость</item> 
   <item>Усиление</item> 
   </string-array>
-- <string-array name="SPDIF_desc">
+  <string-array name="SPDIF_desc">
   <item>Digital audio (Stereo)</item> 
   <item>Digital audio (5.1)</item> 
   <item>Аналоговый звук, если домашеий кинотеатр выключен</item> 
   </string-array>
-- <string-array name="recovery_retain">
+  <string-array name="recovery_retain">
   <item>Сохраниить</item> 
   <item>Не сохранять</item> 
   </string-array>
-- <string-array name="child_lock_policy">
+  <string-array name="child_lock_policy">
   <item>Выключить</item> 
   <item>Открыть</item> 
   </string-array>
-- <string-array name="num_of_questions">
+  <string-array name="num_of_questions">
   <item>5 вопросов</item> 
   <item>10 вопросов</item> 
   </string-array>
-- <string-array name="variety_of_questions">
+  <string-array name="variety_of_questions">
   <item>Математика</item> 
   </string-array>
-- <string-array name="level_of_questions">
+  <string-array name="level_of_questions">
   <item>Легкий</item> 
   <item>Средний</item> 
   <item>Трудный</item> 
   </string-array>
-- <string-array name="bluetooth_visibility_timeout_entries">
+  <string-array name="bluetooth_visibility_timeout_entries">
   <item>2 минуты</item> 
   <item>5 минут</item> 
   <item>1 час</item>
